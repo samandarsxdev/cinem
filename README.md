@@ -1,1 +1,2 @@
 # cinem
+ushbu kinolar haqida
