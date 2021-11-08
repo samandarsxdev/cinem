@@ -1,2 +1,2 @@
-# cinem
+# cinema
 ushbu kinolar haqida
